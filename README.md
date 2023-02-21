@@ -13,8 +13,8 @@ HTML, CSS and JavaScript
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="">Dad Jokes</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/12-50JS/tree/main/Dad%20Jokes">Dad Jokes</a></td>
+      <td><a href="https://dad-jokes-coral.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>02</td>
