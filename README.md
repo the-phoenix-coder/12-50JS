@@ -18,8 +18,8 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="">Event Keycodes</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/12-50JS/tree/main/Event%20Keycodes">Event Keycodes</a></td>
+      <td><a href="https://even-keycodes.vercel.app/">Live</a></td>
     </tr>
     <tr>
       <td>03</td>
