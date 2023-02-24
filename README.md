@@ -23,8 +23,8 @@ HTML, CSS and JavaScript
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="">Faq Collapse</a></td>
-      <td><a href="">Live</a></td>
+      <td><a href="https://github.com/the-phoenix-coder/12-50JS/tree/main/faq-collapse">Faq Collapse</a></td>
+      <td><a href="https://faq-collapse-drab.vercel.app/">Live</a></td>
     </tr>
   </tbody>
 </table>
